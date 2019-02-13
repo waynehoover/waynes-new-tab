@@ -9,7 +9,7 @@ let css = `
     letter-spacing: 2px;
   }`
 let html = `
-  <h1>I am strong, happy and heathly</h1>
+  <h1>I am strong, happy and healthy</h1>
 `
 
 chrome.runtime.onInstalled.addListener(function() {
